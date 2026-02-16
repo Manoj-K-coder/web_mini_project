@@ -1,0 +1,9 @@
+To access the php :
+Set the DATABASE name as the hotel_db.
+Set the TABLE  name as the bookings.
+
+To access home page visit : home.php
+
+Passwords:
+Admin Username : admin
+Admin Password : 12345
